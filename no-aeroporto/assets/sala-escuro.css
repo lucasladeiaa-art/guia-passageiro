@@ -1,0 +1,15 @@
+body.gp.sala-passageiro { --vio: #9DBBFF; overflow-x: clip; }
+body.gp.sala-passageiro .btn-primary { background: #F5C977; color: #0B0D1C !important; box-shadow: 0 12px 30px rgba(245,201,119,.2); }
+body.gp.sala-passageiro .btn-primary:hover { background: #FFD98F; color: #0B0D1C !important; }
+body.gp.sala-passageiro .btn-wa { background: #1F7A55 !important; color: #fff !important; box-shadow: none; }
+body.gp .sala-hero h1 em { background: linear-gradient(90deg, #BFD6FF, #F5C977); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+body.gp .sala-kicker span::after { background: linear-gradient(90deg, #F5C977, transparent); }
+body.gp .bp-top { background: linear-gradient(90deg, #C99A3E, #F5C977); color: #0B0D1C; }
+body.gp .bp-main { background: linear-gradient(160deg, #18203A 0%, #121A30 60%, #0F1528 100%); }
+body.gp .bp-stub { background: linear-gradient(160deg, #1A2340, #131A31); }
+body.gp .bp-meter i { background: linear-gradient(90deg, #8DB8FF, #F5C977); }
+body.gp.sala-passageiro .guia .check input:checked { background: #F5C977; }
+body.gp.sala-passageiro .final-cta { background: radial-gradient(ellipse 70% 90% at 90% 0%, rgba(141,184,255,.16), transparent 60%), radial-gradient(ellipse 60% 80% at 0% 100%, rgba(245,201,119,.10), transparent 60%), #0B0D1C; }
+body.gp .tr-bar i { background: linear-gradient(90deg, #8DB8FF, #F5C977); }
+body.gp .mt-nav button:hover { background: rgba(245,201,119,.14); border-color: #F5C977; }
+body.gp.sala-passageiro .gp-brand-meta { letter-spacing: .06em; font-size: .64rem; }
