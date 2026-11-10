@@ -1,5 +1,45 @@
 [
  {
+  "title": "O plano de saúde negou o tratamento, o exame ou a cirurgia que o médico prescreveu. E agora?",
+  "slug": "plano-de-saude-negou-tratamento-exame-ou-cirurgia-prescritos",
+  "area": "plano-de-saude",
+  "date": "2026-11-10",
+  "summary": "A negativa precisa vir por escrito, com o fundamento e o número de protocolo. O rol da ANS é referência básica, e a prescrição, o laudo e os prazos da regulamentação organizam o que fazer em seguida.",
+  "cover": "img/plano-de-saude-negou-tratamento-exame-ou-cirurgia-prescritos.webp",
+  "coverAlt": "Mulher sentada sozinha em um corredor de hospital à noite, lendo uma prescrição",
+  "reading": 11
+ },
+ {
+  "title": "O plano autorizou o procedimento e depois negou, cancelou ou atrasou. O que fazer?",
+  "slug": "plano-de-saude-autorizou-e-depois-negou-ou-atrasou-o-atendimento",
+  "area": "plano-de-saude",
+  "date": "2026-11-10",
+  "summary": "A autorização e a realização do atendimento têm prazos diferentes. A RN 566/2022 fixa os prazos máximos da ANS, e o cancelamento de uma guia já emitida também precisa vir por escrito, com fundamento.",
+  "cover": "img/plano-de-saude-autorizou-e-depois-negou-ou-atrasou-o-atendimento.webp",
+  "coverAlt": "Mãos sobre uma autorização médica amassada em uma mesa de cozinha, à luz de um abajur, com o telefone ao lado",
+  "reading": 11
+ },
+ {
+  "title": "Meu nome foi incluído em cadastro de inadimplentes por uma dívida que eu não reconheço. O que fazer?",
+  "slug": "meu-nome-foi-incluido-em-cadastro-por-divida-que-nao-reconheco",
+  "area": "bancos",
+  "date": "2026-11-10",
+  "summary": "O cadastro precisa ser verdadeiro e comunicado por escrito antes da inscrição. Extraia o apontamento, reúna os comprovantes e veja os prazos de correção, de exclusão após o pagamento e a ressalva da Súmula 385 do STJ.",
+  "cover": "img/meu-nome-foi-incluido-em-cadastro-por-divida-que-nao-reconheco.webp",
+  "coverAlt": "Homem sentado à mesa à noite, com a mão na testa, diante de um envelope e de uma carta, com chuva na janela",
+  "reading": 10
+ },
+ {
+  "title": "A fatura de energia ou de telefonia veio com um valor que eu não reconheço. O que fazer?",
+  "slug": "fatura-de-energia-ou-telefonia-com-valor-que-nao-reconheco",
+  "area": "contas",
+  "date": "2026-11-10",
+  "summary": "A fatura precisa ser clara e conferível. Impugne o lançamento com protocolo, guarde as faturas anteriores e os comprovantes, e entenda em que condições a devolução do que foi pago a maior pode ser pedida.",
+  "cover": "img/fatura-de-energia-ou-telefonia-com-valor-que-nao-reconheco.webp",
+  "coverAlt": "Mão apontando para uma fatura desfocada sobre o balcão da cozinha, ao lado de uma calculadora e de um copo d'água",
+  "reading": 10
+ },
+ {
   "title": "Sou médico e perdi o voo e um compromisso financeiro: posso ser ressarcido?",
   "slug": "sou-medico-perdi-o-voo-e-um-compromisso-financeiro-posso-ser-ressarcido",
   "area": "passageiro",
